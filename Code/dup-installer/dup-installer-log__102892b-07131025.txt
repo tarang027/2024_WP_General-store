@@ -1,0 +1,72 @@
+[PHP ERR][ISSUE] MSG:Return type of IgnorantRecursiveDirectoryIterator::getChildren() should either be compatible with RecursiveDirectoryIterator::getChildren(): RecursiveDirectoryIterator, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice [CODE:8192|FILE:D:\wamp64\www\General_store\dup-installer\ctrls\classes\class.ctrl.extraction.php|LINE:597]
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 09:27:47
+* VERSION: 1.4.3
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 7.3.33                                |8.1.26
+OS__________________: Linux                                 |WINNT
+CREATED_____________: 2022-01-07 13:10:25
+WP VERSION__________: 5.6.7
+DUP VERSION_________: 1.4.3
+DB__________________: 10.3.22
+DB TABLES___________: 47
+DB ROWS_____________: 4,485
+DB FILE SIZE________: 2.26MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 8.1.26 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache/2.4.58 (Win64) PHP/8.1.26 mod_fcgid/2.3.10-dev
+DOC ROOT____________: "D:/wamp64/www/General_store"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://localhost/General_store/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ACTION______: "donothing"
+ARCHIVE ENGINE______: "ziparchive"
+SET DIR PERMS_______: 0
+DIR PERMS VALUE_____: 644
+SET FILE PERMS______: 0
+FILE PERMS VALUE____: 755
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "D:/wamp64/www/General_store/20200501_generalstoreecommercete_[HASH]_20220107131025_archive.zip"
+SIZE________________: 67.11MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+BEFORE EXTRACION ACTIONS
+MAINTENANCE MODE ENABLE
+
+
+START ZIP FILE EXTRACTION STANDARD >>> 
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "D:/wamp64/www/General_store/20200501_generalstoreecommercete_[HASH]_20220107131025_archive.zip"
+SIZE________________: 67.11MBFile timestamp set to Current: 2024-02-20 09:29:06
+<<< ZipArchive Unzip Complete: true
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+
+PERMISSION UPDATES: None Applied
+
+STEP-1 COMPLETE @ 09:29:06 - RUNTIME: 78.8915 sec.
+[PHP ERR][ISSUE] MSG:Implicit conversion from float 3555.4900000000002 to int loses precision [CODE:8192|FILE:D:\wamp64\www\General_store\dup-installer\classes\class.csrf.php|LINE:113]
+[PHP ERR][ISSUE] MSG:Implicit conversion from float 5023.950000000001 to int loses precision [CODE:8192|FILE:D:\wamp64\www\General_store\dup-installer\classes\class.csrf.php|LINE:113]

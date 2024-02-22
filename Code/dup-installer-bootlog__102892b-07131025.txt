@@ -1,0 +1,155 @@
+[Feb 20 09:27:43] 
+[Feb 20 09:27:43] ==DUPLICATOR INSTALLER BOOTSTRAP v1.4.3==
+[Feb 20 09:27:43] ----------------------------------------------------
+[Feb 20 09:27:43] Installer bootstrap start
+[Feb 20 09:27:43] Ready to extract the installer
+[Feb 20 09:27:43] Checking permission of destination folder
+[Feb 20 09:27:43] ZipArchive exists so using that
+[Feb 20 09:27:43] Successfully opened archive file.
+[Feb 20 09:27:43] Extracting all files from archive within dup-installer
+[Feb 20 09:27:43] Success: dup-installer/dup-database__[HASH].sql >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/dup-scan__[HASH].json >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/inc.libs.css.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.woff >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.woff >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.woff2 >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.woff2 >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.woff >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/font-awesome/webfonts/index.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.woff2 >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/font-awesome/css/all.min.css >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/font-awesome/css/index.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/font-awesome/index.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/inc.js.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/inc.css.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/inc.libs.js >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/images/ui-icons_454545_256x240.png >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/images/ui-bg_glass_55_fbf9ee_1x400.png >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/images/ui-bg_glass_75_dadada_1x400.png >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/images/ui-icons_222222_256x240.png >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/images/ui-icons_cd0a0a_256x240.png >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/images/ui-icons_2e83ff_256x240.png >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/images/ui-bg_glass_65_ffffff_1x400.png >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/images/ui-bg_glass_75_e6e6e6_1x400.png >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/images/ui-bg_highlight-soft_75_cccccc_1x100.png >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/images/ui-icons_888888_256x240.png >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/images/index.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/images/ui-bg_glass_95_fef1ec_1x400.png >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/assets/index.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/ctrls/ctrl.s1.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/ctrls/ctrl.s2.dbtest.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/ctrls/classes/class.ctrl.extraction.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/ctrls/ctrl.base.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/ctrls/ctrl.s2.dbinstall.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/ctrls/index.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/ctrls/ctrl.s3.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/ctrls/ctrl.s2.base.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/class.view.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/class.package.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/Crypt/Base.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/Crypt/Random.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/Crypt/Rijndael.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/Crypt/index.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/class.csrf.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/class.password.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/class.db.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/class.server.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/class.engine.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/config/class.boot.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/config/class.conf.srv.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/config/class.archive.config.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/config/class.constants.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/config/class.security.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/config/index.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/class.logging.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/class.s3.func.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/class.http.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/host/class.pantheon.host.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/host/class.godaddy.host.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/host/interface.host.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/host/class.wpengine.host.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/host/class.liquidweb.host.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/host/class.flywheel.host.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/host/class.wordpresscom.host.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/host/class.custom.host.manager.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/class.crypt.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/utilities/class.u.exceptions.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/utilities/class.u.notices.manager.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/utilities/class.u.search.reaplce.manager.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/utilities/class.u.html.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/utilities/class.u.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/utilities/index.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/index.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/classes/class.installer.state.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/views/view.init1.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/views/view.s1.base.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/views/view.s2.base.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/views/view.security.error.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/views/view.s2.cpnl.lite.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/views/view.s1.terms.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/views/view.s2.basic.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/views/view.help.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/views/index.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/views/view.s2.dbtest.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/views/view.s3.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/views/view.s4.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/views/view.exception.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/main.installer.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/index.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/favicon/lite01_apple-touch-icon.png >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/favicon/lite01_favicon-32x32.png >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/favicon/lite01_favicon-16x16.png >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/favicon/lite01_android-chrome-256x256.png >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/favicon/browserconfig.xml >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/favicon/lite01_mstile-150x150.png >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/favicon/lite01_favicon.ico >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/favicon/site.webmanifest >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/favicon/lite01_safari-pinned-tab.svg >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/favicon/lite01_android-chrome-192x192.png >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/dup-archive__[HASH].txt >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/snaplib/class.snaplib.u.net.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/snaplib/class.snaplib.u.ui.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/snaplib/class.snaplib.u.util.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/snaplib/wordpress.core.files.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/snaplib/class.snaplib.jsonSerializable.abstract.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/snaplib/class.snaplib.exceptions.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/snaplib/class.snaplib.u.wp.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/snaplib/class.snaplib.u.orig.files.manager.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/snaplib/class.snaplib.logger.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/snaplib/class.snaplib.u.db.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/snaplib/class.snaplib.u.string.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/snaplib/class.snaplib.u.stream.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/snaplib/class.snaplib.u.json.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/snaplib/index.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/snaplib/snaplib.all.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/snaplib/class.snaplib.u.os.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/snaplib/class.snaplib.u.io.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/snaplib/class.snaplib.u.url.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/config/class.wp.config.tranformer.src.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Success: dup-installer/lib/config/class.wp.config.tranformer.php >>> D:\wamp64\www\General_store
+[Feb 20 09:27:43] Successfully closed archive file
+[Feb 20 09:27:43] Successfully extracted with ZipArchive
+[Feb 20 09:27:43] No need to create dup-installer/.htaccess or dup-installer/.user.ini
+[Feb 20 09:27:43] ERROR:  SAPI: Unrecognized
+[Feb 20 09:27:43] Set permissions of D:/wamp64/www/General_store/dup-installer<br/>
+[Feb 20 09:27:43] Set permissions of D:/wamp64/www/General_store/dup-installer/assets<br/>
+[Feb 20 09:27:43] Set permissions of D:/wamp64/www/General_store/dup-installer/classes<br/>
+[Feb 20 09:27:43] Set permissions of D:/wamp64/www/General_store/dup-installer/ctrls<br/>
+[Feb 20 09:27:43] Set permissions of D:/wamp64/www/General_store/dup-installer/favicon<br/>
+[Feb 20 09:27:43] Set permissions of D:/wamp64/www/General_store/dup-installer/lib<br/>
+[Feb 20 09:27:43] Set permissions of D:/wamp64/www/General_store/dup-installer/views<br/>
+[Feb 20 09:27:43] Set permissions of D:/wamp64/www/General_store/dup-installer/dup-archive__[HASH].txt<br/>
+[Feb 20 09:27:43] Set permissions of D:/wamp64/www/General_store/dup-installer/dup-database__[HASH].sql<br/>
+[Feb 20 09:27:43] Set permissions of D:/wamp64/www/General_store/dup-installer/dup-scan__[HASH].json<br/>
+[Feb 20 09:27:43] Set permissions of D:/wamp64/www/General_store/dup-installer/index.php<br/>
+[Feb 20 09:27:43] Set permissions of D:/wamp64/www/General_store/dup-installer/main.installer.php<br/>
+[Feb 20 09:27:43] DONE: No detected errors so redirecting to the main installer. Main Installer URI = http://localhost:8080/General_store/dup-installer/main.installer.php
+[Feb 20 09:27:43] [PHP ERR][ISSUE] MSG:Implicit conversion from float 6201.320000000001 to int loses precision [CODE:8192|FILE:D:\wamp64\www\General_store\installer.php|LINE:1578]
+[Feb 20 09:27:43] [PHP ERR][ISSUE] MSG:Automatic conversion of false to array is deprecated [CODE:8192|FILE:D:\wamp64\www\General_store\installer.php|LINE:1649]
+[Feb 20 09:27:43] [PHP ERR][ISSUE] MSG:Automatic conversion of false to array is deprecated [CODE:8192|FILE:D:\wamp64\www\General_store\installer.php|LINE:1649]
+[Feb 20 09:27:43] [PHP ERR][ISSUE] MSG:Automatic conversion of false to array is deprecated [CODE:8192|FILE:D:\wamp64\www\General_store\installer.php|LINE:1649]
+[Feb 20 09:27:43] [PHP ERR][ISSUE] MSG:Automatic conversion of false to array is deprecated [CODE:8192|FILE:D:\wamp64\www\General_store\installer.php|LINE:1649]
+[Feb 20 09:27:43] [PHP ERR][ISSUE] MSG:Automatic conversion of false to array is deprecated [CODE:8192|FILE:D:\wamp64\www\General_store\installer.php|LINE:1649]
+[Feb 20 09:27:43] [PHP ERR][ISSUE] MSG:Automatic conversion of false to array is deprecated [CODE:8192|FILE:D:\wamp64\www\General_store\installer.php|LINE:1649]
+[Feb 20 09:27:43] [PHP ERR][ISSUE] MSG:Automatic conversion of false to array is deprecated [CODE:8192|FILE:D:\wamp64\www\General_store\installer.php|LINE:1649]
+[Feb 20 09:27:43] [PHP ERR][ISSUE] MSG:Automatic conversion of false to array is deprecated [CODE:8192|FILE:D:\wamp64\www\General_store\installer.php|LINE:1649]
